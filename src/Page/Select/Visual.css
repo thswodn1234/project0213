@@ -1,0 +1,11 @@
+.butt2{
+  margin-top: 15px;
+  display: flex;
+  margin-left: 43%;
+  width: 100px;
+  justify-content: center;
+}
+
+.visualtitle{
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+.top {
+  height: 300px;
+  padding-top: 20px;
+}
+
+.colLeft,
+.colRight {
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  background: white;
+  color: #2b2a2b;
+}
+
+.calendar {
+  width: 100%;
+}
